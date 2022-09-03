@@ -1,5 +1,5 @@
 # datascience hack srmist - existence web (NGO)
-GeeksforGeeks SRMIST Technical Domain Task Round ..
+Data Science Hack Task Round-02 ..
  
 YOU CAN GO THROUGH A LIVE DEMO FOR THIS PROJECT:
 https://existence-dsh.blogspot.com/
