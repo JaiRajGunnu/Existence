@@ -1,4 +1,4 @@
-# datascience hack srmist - existence web (NGO)
+# datascience hack srmist - existence web for charities
 Data Science Hack Task Round-02 ..
  
 YOU CAN GO THROUGH A LIVE DEMO FOR THIS PROJECT:
